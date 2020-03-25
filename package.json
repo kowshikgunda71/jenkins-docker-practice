@@ -1,14 +1,19 @@
 {
-  "name": "jenkins-docker",
+  "name": "jenkins-docker-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "getting famililar with jenkins using docker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kowshikgunda71/jenkins-docker-practice.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "bugs": {
+    "url": "https://github.com/kowshikgunda71/jenkins-docker-practice/issues"
+  },
+  "homepage": "https://github.com/kowshikgunda71/jenkins-docker-practice#readme"
 }
